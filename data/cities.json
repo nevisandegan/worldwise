@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "cityName": "Danesfahan",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "ir",
+      "date": {
+        "year": 1402,
+        "month": 7,
+        "day": 25
+      },
+      "notes": "",
+      "position": {
+        "lat": "35.7688006602384",
+        "lng": "49.7515869140625"
+      },
+      "id": 984433123212
+    },
+    {
+      "cityName": "Karaj",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "ir",
+      "date": {
+        "year": 1402,
+        "month": 7,
+        "day": 26
+      },
+      "notes": "",
+      "position": {
+        "lat": "35.754450057233704",
+        "lng": "50.90721130371094"
+      },
+      "id": 984433123213
+    },
+    {
+      "cityName": "Chaharbagh",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "ir",
+      "date": {
+        "year": 1402,
+        "month": 7,
+        "day": 30
+      },
+      "notes": "",
+      "position": {
+        "lat": "35.808347191214935",
+        "lng": "50.717010498046875"
+      },
+      "id": 984433123214
+    },
+    {
+      "cityName": "Karaj",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "ir",
+      "date": {
+        "year": 1402,
+        "month": 7,
+        "day": 26
+      },
+      "notes": "",
+      "position": {
+        "lat": "35.80611974075557",
+        "lng": "51.046600341796875"
+      },
+      "id": 984433123215
+    },
+    {
+      "cityName": "Kan District",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "ir",
+      "date": {
+        "year": 1402,
+        "month": 7,
+        "day": 24
+      },
+      "notes": "",
+      "position": {
+        "lat": "35.821153818963204",
+        "lng": "51.194915771484375"
+      },
+      "id": 984433123216
+    }
+  ]
+}
